@@ -1,4 +1,16 @@
 body {
-  background: linen;
+  background: #FBF5E1;
 }
 
+h1, p{
+  line-height: 1.5;
+  color: #27070C;
+}
+
+a {text-decoration: none;
+  color: #CB5A0E;
+}
+
+a:hover{
+  text-decoration: underline;
+}
